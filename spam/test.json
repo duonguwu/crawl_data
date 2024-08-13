@@ -1,0 +1,80 @@
+
+all_product[
+    1054434042
+] = {
+    "available": true,
+    "compare_at_price_max": 0.0,
+    "compare_at_price_min": 0.0,
+    "compare_at_price_varies": false,
+    "compare_at_price": 0.0,
+    "content": null,
+    "description": "<h1><strong>Về thương hiệu kính ANCCI</strong></h1><p><strong>ANCCI là một thương hiệu mắt kính cao cấp</strong>&nbsp;được thành lập vào năm 2012 với ý tưởng tạo ra những sản phẩm mang đậm phong cách đương đại và sang trọng. Sản phẩm của ANCCI được chế tạo từ các chất liệu cao cấp như titan, nhôm và acetate, mang đến độ bền và độ cứng tốt. Thương hiệu này chú trọng đến từng chi tiết trên sản phẩm, từ khung kính đến tròng kính, để đảm bảo chất lượng tuyệt đối và sự thoải mái khi sử dụng. Với sự kết hợp tinh tế giữa phong cách đương đại và sự tiện dụng, ANCCI mang đến cho khách hàng những sản phẩm mắt kính thời trang và độc đáo. Với những giá trị này, ANCCI đã nhanh chóng trở thành một trong những thương hiệu mắt kính được ưa chuộng và tin tưởng tại thị trường Việt Nam.</p><p style=\"text-align: center\"><img src=\"//file.hstatic.net/200000689681/file/1_eb1e3e0a8330451f9be65404a5a1d584_grande.png\"></p><p style=\"text-align: center\">&nbsp;</p><h2>&nbsp;</h2><h2><strong>THÔNG TIN CHI TIẾT</strong></h2><p>&nbsp;</p><table><tbody><tr><td><p><strong>KHUNG KÍNH</strong></p><hr><p>HÌNH DẠNG GỌNG: Phi công</p><p>CHẤT LIỆU GỌNG: Kim loại</p><p>MÀU GỌNG: Đen</p><p>&nbsp;</p><p><strong>TRÒNG&nbsp;KÍNH</strong></p><hr><p>CHẤT LIỆU TRÒNG: Nylon</p><p>MÀU TRÒNG: Đen</p></td><td><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></td></tr></tbody></table><table><tbody><tr><td><p>&nbsp;</p><p><strong>KÍCH THƯỚC</strong></p><hr><p>ĐỘ RỘNG TRÒNG:&nbsp;56&nbsp;mm&nbsp;</p><p>CẦU KÍNH: 16&nbsp;mm</p><p>CHIỀU DÀI CÀNG KÍNH: 140&nbsp;mm</p></td><td><p>&nbsp;</p></td></tr></tbody></table><p>&nbsp;</p><h2><strong>HƯỚNG DẪN BẢO QUẢN KÍNH</strong></h2><p>Bảo quản kính trong hộp khi không sử dụng.</p><p>Không chạm tay vào tròng kính, không đặt úp tròng kính xuống các bề mặt để tránh trầy xước.</p><p>Dùng 2 tay cầm vào 2 càng kính và kéo thẳng khi đeo hoặc tháo kính để tránh biến dạng.</p><p>Thường xuyên vệ sinh kính bằng nước rửa kính và khăn lau kính chuyên dụng.</p>",
+    "featured_image": "https://product.hstatic.net/200000689681/product/1_607c2a75c1a54578945bdd040beb96d3.png",
+    "handle": "kinh-mat-nam-ancci-ac33214-c1",
+    "id": 1054434042,
+    "images": [
+        "https://product.hstatic.net/200000689681/product/1_607c2a75c1a54578945bdd040beb96d3.png",
+        "https://product.hstatic.net/200000689681/product/2_2400fc32693f414283d123725e6af7ce.png",
+        "https://product.hstatic.net/200000689681/product/3_01975c13dc2d4a28aef44dcfaee987d3.png"
+    ],
+    "options": [
+        "Màu sắc",
+        "Kích thước",
+        "Style Name"
+    ],
+    "price": 88000000.0,
+    "price_max": 88000000.0,
+    "price_min": 88000000.0,
+    "price_varies": false,
+    "tags": [
+        "filter_origin: Trung Quốc",
+        "filter_material: Kim loại",
+        "filter_gender: Nam",
+        "New Arrival 2401",
+        "Polarized",
+        "filter_type: Nguyên khung",
+        "filter_lens_material: Nylon",
+        "filter_shape: Phi công",
+        "2024",
+        "filter_gong: Đen",
+        "filter_color_trong: Đen"
+    ],
+    "template_suffix": null,
+    "title": "Kính Mát Nam ANCCI AC33214 C1",
+    "type": "Kính Mát",
+    "url": "/products/kinh-mat-nam-ancci-ac33214-c1",
+    "pagetitle": "Kính Mát Nam ANCCI AC33214 C1",
+    "metadescription": "Về thương hiệu kính ANCCI là một thương hiệu mắt kính cao cấp được thành lập vào năm 2012 với ý tưởng tạo ra những sản phẩm mang đậm phong cách đương đại và sang trọng. Sản phẩm của ANCCI được chế tạo từ các chất liệu cao cấp như titan, nhôm và acetate, mang đến độ bền và độ cứng tốt.",
+    "variants": [
+        {
+            "id": 1122641593,
+            "barcode": "AC33214_C1.CS",
+            "available": true,
+            "price": 88000000.0,
+            "sku": "AC33214_C1.CS",
+            "option1": "Đen",
+            "option2": "56-16-140",
+            "option3": "AC33214",
+            "options": [
+                "Đen",
+                "56-16-140",
+                "AC33214"
+            ],
+            "inventory_quantity": 2.0,
+            "old_inventory_quantity": 2.0,
+            "title": "Đen / 56-16-140 / AC33214",
+            "weight": 350.0,
+            "compare_at_price": 0.0,
+            "inventory_management": "haravan",
+            "inventory_policy": "deny",
+            "selected": false,
+            "url": null,
+            "featured_image": null
+        }
+    ],
+    "vendor": "ANCCI",
+    "published_at": "2024-03-03T09:18:46.059Z",
+    "created_at": "2024-05-07T09:54:08.117Z",
+    "not_allow_promotion": false
+};
+	
